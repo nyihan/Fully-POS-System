@@ -1,0 +1,8 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Squircle background: replace THEME_COLOR -->
+  <rect x="32" y="32" width="448" height="448" rx="110" fill="#2E8B57"/>
+  <!-- thin cart icon -->
+  <path d="M160 180h240l-20 120H180m-20-120l20 120" stroke="#ffffff" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="220" cy="350" r="26" fill="#ffffff"/>
+  <circle cx="340" cy="350" r="26" fill="#ffffff"/>
+</svg>
